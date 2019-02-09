@@ -19,5 +19,5 @@ another model than the one I provide and how to include more classes to output t
 <img src="Example_Images/classify_happy.png" width="400"><img src="Example_Images/classify_neutral.png" width="400">
 <img src="Example_Images/classify_sad.png" width="400">
 
-<img src="Example_Images/haar_detection.png" width="400"><img src="Example_Images/resNet_detection.png" width="400">
+<img src="Example_Images/haar_detection.png" width="400" height="300"><img src="Example_Images/resNet_detection.png" width="400">
 
