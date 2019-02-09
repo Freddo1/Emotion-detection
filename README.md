@@ -16,5 +16,8 @@ and provide the required arguments. There is a seperate other readme.txt inside 
 another model than the one I provide and how to include more classes to output the appropriate text at the drawn bounding boxes.
 
 # Examples of face detection and emotion detection
-<img src="Example_Images/classify_happy.png" width="400">
+<img src="Example_Images/classify_happy.png" width="400"><img src="Example_Images/classify_neutral.png" width="400">
+<img src="Example_Images/classify_sad.png" width="400">
+
+<img src="Example_Images/haar_detection.png" width="400"><img src="Example_Images/resNet_detection.png" width="400">
 
