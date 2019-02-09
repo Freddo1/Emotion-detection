@@ -17,5 +17,5 @@ another model than the one I provide and how to include more classes to output t
 
 # Examples of face detection and emotion detection
 
-[[https://github.com/Freddo1/Emotion-detection/blob/master/Example_Images/classify_happy.png|alt=Happy]]
+[[https://github.com/Freddo1/Emotion-detection/tree/master/Example_Images/classify_happy.png|alt=Happy]]
 
