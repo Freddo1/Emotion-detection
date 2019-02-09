@@ -1,7 +1,7 @@
 # Emotion-detection
 Real-time face and emotion detection
 
-This is a partial result of a bachelor thesis work in face and emotion detection done between August 2018 through January 2019.
+This is a partial result of one part of the implementations made during a bachelor thesis work in face and emotion detection done between August 2018 through January 2019.
 Simply clone or download and choose the way you want to run the detection. There are two ways instructed below.
 
 # Face detection
@@ -20,4 +20,10 @@ another model than the one I provide and how to include more classes to output t
 <img src="Example_Images/classify_sad.png" width="400" height="260">
 
 <img src="Example_Images/haar_detection.png" width="400" height="260"><img src="Example_Images/resNet_detection.png" width="400" height="260">
+
+# Other info
+
+The model is implemented with Keras using tensorflow backend, see the image in the Classification_model subfolder for more reference
+on each layer included. There is another repository using the same CNN model as a feature extractor and then training machine learning
+models on these features that will be put up in a week.
 
