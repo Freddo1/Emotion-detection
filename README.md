@@ -17,5 +17,5 @@ another model than the one I provide and how to include more classes to output t
 
 # Examples of face detection and emotion detection
 
-![Happy classification](Example_Images/classify_happy.png)
+![Happy classification](Example_Images/classify_happy.png | width=100)
 
