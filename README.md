@@ -15,6 +15,7 @@ NOTE: IF YOU ARE RUNNING PYTHON 2.7.9(or greater) or Python 3.4(or greater) you 
 1: Get python -> https://wiki.python.org/moin/BeginnersGuide/Download<br>
 2: Get pip -> https://www.makeuseof.com/tag/install-pip-for-python/<br>
 </p>
+
 # Other info
 The model is implemented with Keras using tensorflow backend, see the image in the Classification_model subfolder for more reference
 on each layer included. There is another repository using the same CNN model as a feature extractor and then training machine learning
