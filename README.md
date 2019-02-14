@@ -5,8 +5,7 @@ This is a partial result of one part of the implementations made during a bachel
 Simply clone or download and choose the way you want to run the detection. There are two ways instructed below.
 
 # Instructions
-Check the README.txt for full installation instructions. The easiest way to run is to follow the given instructions and not
-manipulate the original folder structure. There are currently three scripts with different purposes. You can either run face detection for multiple faces in video footage or run emotion detection for either webcamera or your own input video. Please see instructions in the README.txt for further info.
+Check the README.txt in the Master_detection folder for the full installation instructions. The easiest way to run is to follow the given instructions and not manipulate the original folder structure. There are currently three scripts with different purposes. You can either run face detection for multiple faces in video footage or run emotion detection for either webcamera or your own input video. Please see instructions in the README.txt for further info.
 
 # Examples of face detection and emotion detection
 <img src="Example_Images/classify_happy.png" width="400" height="260"><img src="Example_Images/classify_neutral.png" width="400" height="260">
