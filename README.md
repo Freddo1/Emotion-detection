@@ -4,16 +4,9 @@ Real-time face and emotion detection
 This is a partial result of one part of the implementations made during a bachelor thesis work in face and emotion detection done between August 2018 through January 2019.
 Simply clone or download and choose the way you want to run the detection. There are two ways instructed below.
 
-# Face detection
-Navigate to the subfolder "detection" in the Master folder. There are two ways of performing detection included, either by Viola-Jones haar cascade classifier or by deep learning based ResNet model. These scripts are named accordingly
-and there are two scripts that can be used. If you prefer the Spyder IDE, please run these scripts and input your paths manually into the
-script at the top, along with the instructed other arguments. If you want to use commandline to run them, use those scripts and provide
-required arguments. 
-
-# Emotion detection
-Navigate to the subfolder "Classification" in the Master folder. Just like in the detection steps, choose Spyder scripts or commandline
-and provide the required arguments. There is a seperate other readme.txt inside this folder that gives instructions if you wish to use
-another model than the one I provide and how to include more classes to output the appropriate text at the drawn bounding boxes.
+# Instructions
+Check the README.txt for full installation instructions. The easiest way to run is to follow the given instructions and not
+manipulate the original folder structure. There are currently three scripts with different purposes. You can either run face detection for multiple faces in video footage or run emotion detection for either webcamera or your own input video. Please see instructions in the README.txt for further info.
 
 # Examples of face detection and emotion detection
 <img src="Example_Images/classify_happy.png" width="400" height="260"><img src="Example_Images/classify_neutral.png" width="400" height="260">
