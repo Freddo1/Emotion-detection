@@ -18,6 +18,11 @@ and then simply delete the folder.
 
 EXTRA
 The application will continue to output a window of the camera until either "q" key on keyboard is pressed or you close your terminal.
-This information is also given in the "python scriptname.py -h" command info
+This information is also given in the "python scriptname.py -h" command info.
 
+<p>NOTE THAT THE PROJECT IS NATIVE TO PYTHON VERSION 3.6 AND THIS IS SPECIFIED IN REQUIREMENTS TO RUN. IF YOU RUN ANOTHER VERSION YOU CAN REMOVE THE:</b>
+[requires]</b>
+python_version = "3.6"</b>
+FROM THE SCRIPT AND IT WILL RUN WITH ANY VERSION!
+</p>
 Enjoy!
