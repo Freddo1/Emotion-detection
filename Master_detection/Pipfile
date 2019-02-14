@@ -9,9 +9,9 @@ pylint = "*"
 [packages]
 numpy = "*"
 opencv-python = "*"
+tensorflow = "*"
 keras = "*"
 imutils = "*"
-tensorflow = "*"
 
 [requires]
 python_version = "3.6"
