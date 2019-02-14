@@ -6,7 +6,6 @@ INSTALLATION
 5:When the depencies is installed for the environment, run the "pipenv shell" command to activate it
 6:Run the script of your choice from the Master_detection folder and provide the necessary arguments
 
-
 RUNNING THE SCRIPTS
 A copy-paste line is provided at the top of each script to just paste and run, provided you are using the original folder structure.
 You can also use the "python scriptname.py -h" command to get information on arguments and provide them manually.
