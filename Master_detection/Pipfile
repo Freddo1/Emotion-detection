@@ -12,6 +12,3 @@ opencv-python = "*"
 keras = "*"
 imutils = "*"
 tensorflow = "*"
-
-[requires]
-python_version = "3.6"
