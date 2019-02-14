@@ -1,6 +1,7 @@
 INSTALLATION
 1:Open up your favorite command line workspace (cmd, powershell, Ipython console, terminal)
 2(Optional):Use "pip" and "python" commands if you are unsure that you have these installed(you should have python at least)
+2.5 MAKE SURE YOU HAVE 64 bit python version installed and 3.6
 3:Use the "pip install pipenv" command to install pipenv
 4:Navigate to the Master_detection folder and then run "pipenv install" to install dependencies and create a virtual environment for the application. IT IS CRUCIAL THAT YOU DO THIS FROM THE MASTER_DETECTION FOLDER AND NOT THE EMOTION-DETECTION FOLDER!
 5:When the depencies is installed for the environment, run the "pipenv shell" command to activate it
