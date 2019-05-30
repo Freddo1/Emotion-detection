@@ -18,6 +18,5 @@ NOTE: IF YOU ARE RUNNING PYTHON 2.7.9(or greater) or Python 3.4(or greater) you 
 
 # Other info
 The model is implemented with Keras using tensorflow backend, see the image in the Classification_model subfolder for more reference
-on each layer included. There is another repository using the same CNN model as a feature extractor and then training machine learning
-models on these features that will be put up in a week.
+on each layer included.
 
